@@ -1,0 +1,1 @@
+{"name": "61-develop-a-stock-portfolio-back-firebase-115100", "spec": {"port": 8000, "containers": [{"image": "", "name": "61-develop-a-stock-portfolio-back-firebase-115100", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
